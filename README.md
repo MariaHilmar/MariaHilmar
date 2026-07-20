@@ -14,7 +14,6 @@ Sou uma Líder de Produto de alta senioridade com histórico consolidado na gest
 Recentemente, concluí meu **MBA em Ciência de Dados (BI & Analytics)** e venho desenvolvendo projetos práticos (hands-on) em Python e FastAPI para consolidar minha autonomia técnica. Meu objetivo é liderar produtos e squads focados em dados, IA e arquiteturas modernas, trazendo o melhor dos dois mundos: liderança madura e entendimento técnico real.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariahilmar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaHilmar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mariahilmar-portfolio.vercel.app)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariahilmar@gmail.com)
 
