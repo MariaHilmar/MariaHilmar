@@ -4,8 +4,8 @@
 
 # Olá! Sou Maria Hilmar! 👋
 
-## 👩‍💻 Product Leader sênior com foco em Dados & Inteligência Artificial
-## 👩‍💻 Engenheira de Dados & Desenvolvedora Python
+## 👩‍💻 Product Leader/Manager com foco em Dados & Inteligência Artificial
+## 👩‍💻 Engenheira de Dados & Software
 
 <img align="right" alt="DevOps" height="200" src="https://raw.githubusercontent.com/mayribeirofernandes/mayribeirofernandes/main/assets/devops-loop.png">
 
