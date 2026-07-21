@@ -18,6 +18,7 @@ Liderança de produto em squads ágeis (SaaS B2B e sistemas governamentais), com
 | **Situação Jurídica** | jurimetria e benchmarking (FastAPI, Next.js, XGBoost, ML) |
 | [juris-sync](https://github.com/MariaHilmar/juris-sync) | API FastAPI + ETL + testes em camadas |
 | [juris-sync-web](https://github.com/MariaHilmar/juris-sync-web) | Dashboard Next.js de jurimetria |
+| [paycore](https://github.com/MariaHilmar/paycore) | Ledger fintech: double-entry, PIX mock, 33 testes |
 | [mgi-kpi-dashboard](https://github.com/MariaHilmar/mgi-kpi-dashboard) | BI de engenharia (demo live) |
 
 ## Stack em prática
