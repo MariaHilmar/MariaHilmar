@@ -2,7 +2,7 @@
 
 **Product Manager / Product Owner | Dados e IA | Base técnica em Python**
 
-Liderança de produto em squads ágeis (SaaS B2B e sistemas governamentais), com projetos hands-on em Python, FastAPI, pipelines e fundamentos de IA.
+Histórico consolidado em gestão de squads ágeis e governança de software, com forte viés técnico. Experiência prática na tradução de regras de negócio complexas (com projetos hands-on em Python, FastAPI e Redis Workers) para produtos SaaS escaláveis com alto retorno financeiro (ROI).
 
 ## Links
 
@@ -16,9 +16,9 @@ Liderança de produto em squads ágeis (SaaS B2B e sistemas governamentais), com
 | Projeto | O que é |
 |---------|---------|
 | **Situação Jurídica** | jurimetria e benchmarking (FastAPI, Next.js, XGBoost, ML) |
+| [paycore](https://github.com/MariaHilmar/paycore) | Ledger fintech: double-entry, PIX mock, 33 testes |
 | [juris-sync](https://github.com/MariaHilmar/juris-sync) | API FastAPI + ETL + testes em camadas |
 | [juris-sync-web](https://github.com/MariaHilmar/juris-sync-web) | Dashboard Next.js de jurimetria |
-| [paycore](https://github.com/MariaHilmar/paycore) | Ledger fintech: double-entry, PIX mock, 33 testes |
 | [mgi-kpi-dashboard](https://github.com/MariaHilmar/mgi-kpi-dashboard) | BI de engenharia (demo live) |
 
 ## Stack em prática
