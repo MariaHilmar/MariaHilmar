@@ -13,7 +13,7 @@ Liderança de produto em squads ágeis (SaaS B2B e sistemas governamentais), com
 
 | Projeto | O que é |
 |---------|---------|
-| **Situação Jurídica** | Produto próprio de estudo (jurimetria/dados) - não é vínculo empregatício |
+| **Situação Jurídica** | jurimetria e benchmarking (FastAPI, Next.js, Supabase, ML) |
 | [juris-sync](https://github.com/MariaHilmar/juris-sync) | API FastAPI + ETL + testes em camadas |
 | [juris-sync-web](https://github.com/MariaHilmar/juris-sync-web) | Dashboard Next.js de jurimetria |
 | [mgi-kpi-dashboard](https://github.com/MariaHilmar/mgi-kpi-dashboard) | BI de engenharia (demo live) |
