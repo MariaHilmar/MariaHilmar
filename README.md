@@ -15,7 +15,7 @@ Histórico consolidado em gestão de squads ágeis e governança de software, co
 
 | Projeto | O que é |
 |---------|---------|
-| **Situação Jurídica** | jurimetria e benchmarking (FastAPI, Next.js, XGBoost, ML) |
+| **Situação Jurídica** | Jurimetria e benchmarking (FastAPI, Next.js, XGBoost, ML) |
 | [paycore](https://github.com/MariaHilmar/paycore) | Ledger fintech: double-entry, PIX mock, 33 testes |
 | [juris-sync](https://github.com/MariaHilmar/juris-sync) | API FastAPI + ETL + testes em camadas |
 | [juris-sync-web](https://github.com/MariaHilmar/juris-sync-web) | Dashboard Next.js de jurimetria |
