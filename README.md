@@ -20,4 +20,4 @@ Liderança de produto em squads ágeis (SaaS B2B e sistemas governamentais), com
 
 ## Stack em prática
 
-Python · FastAPI · PostgreSQL · Supabase · Redis · Docker · Next.js · TypeScript
+Python, FastAPI, TypeScript, Next.js, Redis, Docker, XGBoost, React, Tailwind CSS, pytest, Vitest, Sentry
