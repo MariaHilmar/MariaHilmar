@@ -6,7 +6,7 @@ Liderança de produto em squads ágeis (SaaS B2B e sistemas governamentais), com
 
 ## Links
 
-- Portfolio: https://mariahilmar-portfolio.vercel.app
+- Portfolio: https://mariahilmar.vercel.app
 - LinkedIn: https://www.linkedin.com/in/mariahilmar/
 - Hub: https://github.com/MariaHilmar/maria-portfolio
 
