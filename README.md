@@ -1,15 +1,11 @@
-# Olá, eu sou a Maria Hilmar
+### Lead Tech Product Manager | Product Engineer | IA & Data Products
 
-**Product Manager / Product Owner | Dados e IA | Base técnica em Python**
+Líder de Produto com alta senioridade e perfil híbrido raro, consolidada na intersecção entre gestão estratégica de negócios, governança ágil e engenharia de software profunda. Especialista em traduzir do estágio zero ecossistemas SaaS complexos, produtos de dados e marketplaces de alta volumetria até a liderança absoluta de mercado, garantindo forte entrega de valor orientada ao ROI.
 
-Histórico consolidado em gestão de squads ágeis e governança de software, com forte viés técnico. Experiência prática na tradução de regras de negócio complexas (com projetos hands-on em Python, FastAPI e Redis Workers) para produtos SaaS escaláveis com alto retorno financeiro (ROI).
-
-## Links
+## 📇 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariahilmar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mariahilmar.vercel.app)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariahilmar@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561982062117)
 
 ## Em destaque
 
