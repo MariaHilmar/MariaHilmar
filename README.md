@@ -1,8 +1,13 @@
 # Olá, eu sou a Maria Hilmar 👋
 
-### Lead Tech Product Manager | Product Engineer | IA & Data Products | Python
+### Lead Tech PM | Product Manager / Engineer (Dados & IA) | Python
 
-Líder de Produto Técnica (Tech PM) com experiência na construção de marketplaces de grande escala, produtos SaaS e soluções de dados/IA. Atuo desde a fase de Discovery e definição de requisitos até a arquitetura backend, alinhando a estratégia de negócio com a execução técnica da engenharia.
+Conectando negócios, dados e IA.
+
+Desenvolvendo soluções em Python, FastAPI e Next.js
+
+Criando produtos escaláveis do Discovery ao código (SaaS e sistemas complexos)
+
 
 ## 📇 Conecte-se Comigo
 
