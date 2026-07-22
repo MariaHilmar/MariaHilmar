@@ -17,7 +17,7 @@ Líder de Produto com alta senioridade e perfil híbrido raro, consolidada na in
 | [paycore](https://github.com/MariaHilmar/paycore) | Ledger fintech: double-entry, PIX mock, 33 testes |
 | [juris-sync](https://github.com/MariaHilmar/juris-sync) | API FastAPI + ETL + testes em camadas |
 | [juris-sync-web](https://github.com/MariaHilmar/juris-sync-web) | Dashboard Next.js de jurimetria |
-| [mgi-kpi-dashboard](https://github.com/MariaHilmar/mgi-kpi-dashboard) | BI de engenharia (demo live) |
+| [mgi-kpi-dashboard](https://github.com/MariaHilmar/mgi-kpi-dashboard) | Automação de KPIs de projetos de sistemas através de dados do GitLab |
 
 ## 🛠️ Competências Técnicas & Ferramental
 
