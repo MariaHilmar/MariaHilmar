@@ -2,7 +2,7 @@
 
 ### Lead Tech Product Manager | Product Engineer | IA & Data Products | Python
 
-Líder de Produto com alta senioridade e perfil híbrido raro, consolidada na intersecção entre gestão estratégica de negócios, governança ágil e engenharia de software profunda. Especialista em traduzir do estágio zero ecossistemas SaaS complexos, produtos de dados e marketplaces de alta volumetria até a liderança absoluta de mercado, garantindo forte entrega de valor orientada ao ROI.
+Líder de Produto Técnica (Tech PM) com experiência na construção de marketplaces de grande escala, produtos SaaS e soluções de dados/IA. Atuo desde a fase de Discovery e definição de requisitos até a arquitetura backend, alinhando a estratégia de negócio com a execução técnica da engenharia.
 
 ## 📇 Conecte-se Comigo
 
