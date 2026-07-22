@@ -2,14 +2,21 @@
 
 ### Lead Tech Product Manager | Product Engineer | IA & Data Products | Python
 
-Líder de Produto Técnica (Tech PM) com experiência na construção de marketplaces de grande escala, produtos SaaS e soluções de dados/IA. Atuo desde a fase de Discovery e definição de requisitos até a arquitetura backend, alinhando a estratégia de negócio com a execução técnica da engenharia.
+Conectando negócios, dados e IA. 
 
-## 📇 Conecte-se Comigo
+Desenvolvendo soluções em Python, FastAPI e Next.js
+
+Criando produtos escaláveis do Discovery ao código (SaaS e sistemas complexos)
+
+
+#
+# 📇 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariahilmar/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mariahilmar.vercel.app)
 
-## Projetos Pessoais
+
+# Projetos Pessoais
 
 | Projeto | O que é |
 |---------|---------|
@@ -19,7 +26,8 @@ Líder de Produto Técnica (Tech PM) com experiência na construção de marketp
 | [juris-sync-web](https://github.com/MariaHilmar/juris-sync-web) | Dashboard Next.js de jurimetria |
 | [mgi-kpi-dashboard](https://github.com/MariaHilmar/mgi-kpi-dashboard) | Automação de KPIs de projetos de sistemas através de dados do GitLab |
 
-## 🛠️ Competências Técnicas & Ferramental
+
+# 🛠️ Competências Técnicas & Ferramental
 
 * **Product Management & Agilidade:** Continuous Product Discovery, Roadmapping, Gestão de Backlog orientada a ROI, OKRs, KPIs, Scrum, Kanban, Lean.
 * **Engenharia de Requisitos & UX:** User Stories em BDD (Gherkin), BPMN, UML, C4 Model, Análise de Pontos de Função (APF), Figma, Miro.
