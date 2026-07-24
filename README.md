@@ -8,6 +8,8 @@ Desenvolvendo soluções em Python, FastAPI e Next.js
 
 Criando produtos escaláveis do Discovery ao código (SaaS e sistemas complexos)
 
+🚀 **Utilizo IA como ferramenta de desenvolvimento para acelerar fluxos de trabalho, mantendo total controle sobre a implementação, a arquitetura e a tomada de decisões.**
+
 
 ## 📇 Conecte-se Comigo
 
@@ -28,5 +30,5 @@ Criando produtos escaláveis do Discovery ao código (SaaS e sistemas complexos)
 ## 🛠️ Competências Técnicas & Ferramental
 
 * **Product Management & Agilidade:** Continuous Product Discovery, Roadmapping, Gestão de Backlog orientada a ROI, OKRs, KPIs, Scrum, Kanban.
-* **Engenharia de Requisitos & UX:** User Stories em BDD (Gherkin), BPMN, UML, C4 Model, Análise de Pontos de Função (APF), Figma, Miro.
+* **Engenharia de Requisitos & UX:** User Stories em BDD (Gherkin), BPMN, UML, C4 Model, Análise de Pontos de Função (APF), Figma.
 * **Dados, Infraestrutura & IA:** Python, FastAPI, PostgreSQL (pgvector), Supabase, Redis, Docker, Azure Data Factory, NLP, LLM/RAG, Machine Learning (XGBoost).
