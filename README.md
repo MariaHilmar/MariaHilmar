@@ -26,7 +26,7 @@ Criando produtos escaláveis do Discovery ao código (SaaS e sistemas complexos)
 | [sre-agent](https://github.com) | CLI de SRE: observabilidade unificada e diagnóstico de falhas via IA (Supabase, Vercel Railway, GitHub) |
 | [juris-sync](https://github.com/MariaHilmar/juris-sync) | API FastAPI + ETL + testes em camadas |
 | [juris-sync-web](https://github.com/MariaHilmar/juris-sync-web) | Dashboard Next.js de jurimetria |
-| [mgi-kpi-dashboard](https://github.com/MariaHilmar/mgi-kpi-dashboard) | Automação de KPIs de projetos de sistemas através de dados do GitLab |
+| [kpi-dashboard](https://github.com/MariaHilmar/kpi-dashboard) | Automação de KPIs de projetos de sistemas através de dados do GitLab |
 
 ## 🛠️ Competências Técnicas & Ferramental
 
