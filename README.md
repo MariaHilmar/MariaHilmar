@@ -23,7 +23,8 @@ Criando produtos escaláveis do Discovery ao código (SaaS e sistemas complexos)
 | **Situação Jurídica** | Jurimetria e benchmarking (FastAPI, Next.js, XGBoost, ML) |
 | [paycore](https://github.com/MariaHilmar/paycore) | Ledger fintech: double-entry, PIX mock, 33 testes |
 | [avoa-ai](https://github.com/MariaHilmar/avoa-ai) | IA no processo ágil: do requisito à produção (agentes, FastAPI, Next.js, evals) |
-| [sre-agent](https://github.com) | CLI de SRE: observabilidade unificada e diagnóstico de falhas via IA (Supabase, Vercel Railway, GitHub) |
+| [jurimetria-ml](https://github.com/MariaHilmar/jurimetria-ml) | Ciclo clássico de ML: XGBoost, sklearn, FastAPI `/predict` |
+| [sre-agent](https://github.com/MariaHilmar/sre-agent) | CLI de SRE: observabilidade unificada e diagnóstico de falhas via IA |
 | [juris-sync](https://github.com/MariaHilmar/juris-sync) | API FastAPI + ETL + testes em camadas |
 | [juris-sync-web](https://github.com/MariaHilmar/juris-sync-web) | Dashboard Next.js de jurimetria |
 | [mgi-kpi-dashboard](https://github.com/MariaHilmar/mgi-kpi-dashboard) | Automação de KPIs de projetos de sistemas através de dados do GitLab |
