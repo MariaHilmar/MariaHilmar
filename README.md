@@ -1,7 +1,5 @@
 # Olá, eu sou a Maria Hilmar 👋
 
-### Lead Tech PM | Product Manager / Engineer (Dados & IA) | Python
-
 Conectando negócios, dados e IA.
 
 Desenvolvendo soluções em Python, FastAPI e Next.js
