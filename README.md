@@ -17,13 +17,14 @@ Criando produtos escaláveis do Discovery ao código (SaaS e sistemas complexos)
 
 | Projeto | O que é |
 |---------|---------|
-| [paycore](https://github.com/MariaHilmar/paycore) | Ledger fintech: double-entry, PIX mock, 33 testes |
-| [avoa-ai](https://github.com/MariaHilmar/avoa-ai) | IA no processo ágil: do requisito à produção (agentes, FastAPI, Next.js, evals) |
-| [kpi-dashboard](https://github.com/MariaHilmar/kpi-dashboard) | Automação de KPIs de projetos de sistemas através de dados do GitLab |
+| [paycore](https://github.com/MariaHilmar/paycore) | Mini sistema de pagamentos em Python com SDD (ledger, PIX, P2P, conciliação e idempotência) |
+| [qa-credito-sim-e2e](https://github.com/MariaHilmar/qa-credito-sim-e2e) | Automação web com Robot Framework em um mock HTML de simulação de crédito|
 | [sre-agent](https://github.com/MariaHilmar/sre-agent) | CLI de SRE: observabilidade unificada e diagnóstico de falhas via IA |
 | [jurimetria-ml](https://github.com/MariaHilmar/jurimetria-ml) | Ciclo clássico de ML: XGBoost, sklearn, FastAPI `/predict` |
 | [juris-sync](https://github.com/MariaHilmar/juris-sync) | API FastAPI + ETL + testes em camadas |
 | [juris-sync-web](https://github.com/MariaHilmar/juris-sync-web) | Dashboard Next.js de jurimetria |
+| [avoa-ai](https://github.com/MariaHilmar/avoa-ai) | IA no processo ágil: do requisito à produção (agentes, FastAPI, Next.js, evals) |
+| [kpi-dashboard](https://github.com/MariaHilmar/kpi-dashboard) | Automação de KPIs de projetos de sistemas através de dados do GitLab |
 
 
 ## 🛠️ Competências Técnicas & Ferramental
