@@ -4,8 +4,6 @@ Conectando negócios, dados e IA.
 
 Desenvolvendo soluções em Python, FastAPI e Next.js
 
-Criando produtos escaláveis do Discovery ao código (SaaS e sistemas complexos)
-
 🚀 **Utilizo IA como ferramenta de desenvolvimento para acelerar fluxos de trabalho, mantendo total controle sobre a implementação, a arquitetura e a tomada de decisões.**
 
 
