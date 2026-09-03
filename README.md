@@ -20,6 +20,7 @@ Desenvolvendo soluções em Python, FastAPI e Next.js
 | [juris-sync-web](https://github.com/MariaHilmar/juris-sync-web) | Dashboard Next.js de jurimetria |
 | [sre-agent](https://github.com/MariaHilmar/sre-agent) | CLI de SRE: observabilidade unificada e diagnóstico de falhas via IA |
 | [kpi-dashboard](https://github.com/MariaHilmar/kpi-dashboard) | Automação de KPIs de projetos de sistemas através de dados do GitLab |
+| [avoa-ai](https://github.com/MariaHilmar/avoa-ai) | IA no processo ágil: do requisito à produção (agentes, FastAPI, Next.js, evals) |
 
 
 ## 🛠️ Competências Técnicas & Ferramental
